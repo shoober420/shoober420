@@ -1,3 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shoober420&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoober420&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shoober420&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
