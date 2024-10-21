@@ -9,4 +9,4 @@
 
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
 
-![image]({https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white})
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
