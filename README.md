@@ -5,8 +5,8 @@
 :godmode:
 ![image]({https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white})
 ![image]({https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white})
-![image]({https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white})
+
+
+<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
+
 ![image]({https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white})
-
-
-<img src="{https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white}"
