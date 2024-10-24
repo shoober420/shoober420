@@ -8,6 +8,8 @@
 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
+<img src="https://img.shields.io/badge/bspwm-2E2E2E.svg?style=for-the-badge&logo=bspwm&logoColor=white />
+
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
